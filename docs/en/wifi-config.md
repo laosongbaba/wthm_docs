@@ -44,19 +44,19 @@ After completing the configuration operation, the WTHM device will automatically
 You can check the Wi-Fi network connection status on the device's LCD screen.
 
 
-!!! note "Wi-Fi Authentication Mode Support Specification"
-
-    Under its standard network configuration, the product natively supports Wi-Fi Access Points (APs) that utilize the following personal-grade security protocols:
-
-    * WPA-Personal / WPA2-Personal (PSK-based, Pre-Shared Key)
-    * WPA3-Personal (SAE-based, Simultaneous Authentication of Equals)
-    * WPA2/WPA3 Mixed/Transition Mode
-
-    Connection to wireless networks employing other authentication methods, such as:
-
-    * Enterprise-grade authentication, e.g., WPA/WPA2/WPA3-Enterprise (802.1X/EAP-based)
-    * Open (Unsecured) networks
-    * Legacy WEP protocol
-
-    requires an advanced configuration procedure. Please contact our technical support team for detailed guidance.
+> **Note: Wi-Fi Authentication Mode Support Specification**
+>
+> Under its standard network configuration, the product natively supports Wi-Fi Access Points (APs) that utilize the following personal-grade security protocols:
+>
+> * WPA-Personal / WPA2-Personal (PSK-based, Pre-Shared Key)
+> * WPA3-Personal (SAE-based, Simultaneous Authentication of Equals)
+> * WPA2/WPA3 Mixed/Transition Mode
+>
+> Connection to wireless networks employing other authentication methods, such as:
+>
+> * Enterprise-grade authentication, e.g., WPA/WPA2/WPA3-Enterprise (802.1X/EAP-based)
+> * Open (Unsecured) networks
+> * Legacy WEP protocol
+>
+> requires an advanced configuration procedure. Please contact our technical support team for detailed guidance.
 
