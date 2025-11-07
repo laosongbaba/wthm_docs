@@ -2,10 +2,7 @@ site_name: "WTHM IoT Device Manual"
 site_url: "https://wthm-docs.readthedocs.io/"
 
 theme:
-  name: material
-
-plugins:
-  - with-pdf
+  name: readthedocs
 
 docs_dir: docs/en/
 

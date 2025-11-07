@@ -1,3 +1,1 @@
 mkdocs
-mkdocs-with-pdf
-mkdocs-material
